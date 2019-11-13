@@ -4,8 +4,7 @@ Alunos: Guilherme Rodrigues de Almeida Barbosa - 151090681 / Geiziane Morgana Pi
 
    O projeto foi feito em Android Studio com Linguagem Kotlin.
    Pode ser executado pelo Android Studio com um device comum disponibilizado pela ferramenta ou em um celular que tenha Android,
-   necessita apenas do modo desenvolvedor ativado no celular, e conectar na maquina com o cabo USB que o Android Studio irá reconhecer
-   e reproduzir.
+   necessita apenas do modo desenvolvedor ativado no celular, e o dispositvo conectado a um computador com o cabo USB que o Android Studio irá reconhecer e reproduzir.
    O App "WheaterDay" é simples e demostra a temperatura e nome de 5 cidades padrão pré definidas, e com opção de adicionar/ativar e 
    remover/desativar outras 5 também exibidas na tela, ficando a critério do usuário.
    
