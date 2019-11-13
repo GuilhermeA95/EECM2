@@ -1,6 +1,6 @@
 Projeto para cadeira de Estudos de Caso em Computação Móvel.
 
-Alunos: Guilherme Rodrigues de Almeida Barbosa - 151090681 Geiziane Morgana Pinheiro da Silva - 181095317
+Alunos: Guilherme Rodrigues de Almeida Barbosa - 151090681 / Geiziane Morgana Pinheiro da Silva - 181095317
 
    O projeto foi feito em Android Studio com Linguagem Kotlin.
    Pode ser executado pelo Android Studio com um device comum disponibilizado pela ferramenta ou em um celular que tenha Android,
